@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Botcoinista
-- 👀 I’m interested in ...Cryptography
+- 👀 I’m interested in ...Cryptography and Programming
 - 🌱 I’m currently learning ... Javascript,CSS,HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
